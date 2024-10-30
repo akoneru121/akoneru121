@@ -1,5 +1,5 @@
 # 💫 About Me:
-With over 6 years of experience in automating cloud infrastructure, I specialize in designing and implementing CI/CD pipelines, container orchestration, and cloud security solutions. Skilled in AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins, I streamline operations to deliver robust and scalable cloud environments. Passionate about driving efficiency and innovation in cloud-native and DevOps practices.
+EXperience in automating cloud infrastructure, I specialize in designing and implementing CI/CD pipelines, container orchestration, and cloud security solutions. Skilled in AWS, Azure, Docker, Kubernetes, Terraform, and Jenkins, I streamline operations to deliver robust and scalable cloud environments. Passionate about driving efficiency and innovation in cloud-native and DevOps practices.
 
 
 # 💻 Tech Stack:
